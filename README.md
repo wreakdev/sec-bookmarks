@@ -1,8 +1,19 @@
-# Pentest & CTF Resources
+<p align="center">
+  <img src="https://github.com/wreakdev/sec-bookmarks/blob/main/flag.png" alt="sec-bookmarks" width="220">
+</p>
 
-Handpicked cybersecurity links, CTF resources, and pentest references.
+<h1 align="center">Pentest & CTF Resources</h1>
 
-> **Maintained By:** [WreakDev] // [X3roxDev]
+<h1 align="center">sec-bookmarks</h1>
+
+<p align="center">
+  <strong>Handpicked cybersecurity links, CTF resources, and pentest references.</strong>
+</p>
+
+<p align="center">
+  Maintained by <a href="https://github.com/wreakdev">[WreakDev]</a> & <a href="https://github.com/x3roxdev">[X3roxDev]</a>
+</p>
+
 ---
 
 ## Wikis
