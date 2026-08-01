@@ -22,6 +22,7 @@
 ## OSINT
 * [Shodan](https://www.shodan.io/) — Search engine for internet-connected devices.
 * [IDCrawl](https://www.idcrawl.com/) - Search engine for Peoples, Usernames, Phone Numbers, Emails
+* [Wayback Machine](https://archive.org) - Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more. 
 
 
 ## CTF & Learning Platforms
