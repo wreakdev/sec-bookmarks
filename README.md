@@ -2,6 +2,7 @@
 
 Handpicked cybersecurity links, CTF resources, and pentest references.
 
+> **Maintained By:** [WreakDev] // [X3roxDev]
 ---
 
 ## Wikis
