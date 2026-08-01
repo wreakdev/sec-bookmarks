@@ -51,3 +51,6 @@ Handpicked cybersecurity links, CTF resources, and pentest references.
 ## Forensics & Steganography (For CTFs)
 * [Aperi'Solve](https://www.aperisolve.com/) - An excellent online tool for image analysis and steganography (it tests dozens of algorithms simultaneously).
 * [Sonic Visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - Visualisation, analysis, and annotation of music audio recordings.
+
+## Writeups & Walkthroughts
+* [0xdf HackTheBox Walkthroughts](https://0xdf.gitlab.io/) - In-depth, high-quality walkthroughs and methodology notes for HTB machines.
