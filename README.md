@@ -4,7 +4,6 @@
 
 <h1 align="center">Pentest & CTF Resources</h1>
 
-<h1 align="center">sec-bookmarks</h1>
 
 <p align="center">
   <strong>Handpicked cybersecurity links, CTF resources, and pentest references.</strong>
