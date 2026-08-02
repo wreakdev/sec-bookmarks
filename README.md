@@ -51,6 +51,10 @@
 * [SecLists](https://github.com/danielmiessler/seclists) — The security tester's companion (usernames, passwords, fuzzing payloads).
 * [WeakPass](https://weakpass.com/) — Large collection of password lists for security assessments.
 
+## Web Brute-forcing & Fuzzing
+* [Gobuster](https://github.com/Oj/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+* [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+
 ## Wireshark & Network Analysis
 * [Display Filters](https://wiki.wireshark.org/DisplayFilters) — Examples of packet display filters (e.g., `tcp.port eq 25`).
 * [Wireshark Wiki](https://wiki.wireshark.org/) — Comprehensive documentation and guides.
