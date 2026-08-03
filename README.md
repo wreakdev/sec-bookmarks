@@ -23,7 +23,6 @@
 * [IDCrawl](https://www.idcrawl.com/) - Search engine for Peoples, Usernames, Phone Numbers, Emails
 * [Wayback Machine](https://archive.org) - Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more. 
 
-
 ## CTF & Learning Platforms
 * [TryHackMe](https://tryhackme.com) — Interactive platform ranging from basics to advanced Red Teaming.
 * [Hack The Box](https://www.hackthebox.com) — Advanced training labs and real-world scenarios.
@@ -37,7 +36,6 @@
 * [GTFOBins](https://gtfobins.github.io/) — Unix binaries and privilege escalation.
 * [LOLBAS](https://lolbas-project.github.io/) — Windows Living Off The Land Binaries and Scripts.
 
-
 ## Encryptions & Ciphers & Hashes
 * [CyberChef](https://gchq.github.io/CyberChef/) — The Cyber Swiss Army Knife for encryption, encoding, and data analysis.
 * [dCode](https://www.dcode.fr/en) — Ciphers & cipher detection tools.
@@ -45,7 +43,6 @@
 * [Hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility.
 * [John The Ripper](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs.
 * [JWT.io](https://jwt.io/) — JSON Web Token decoder, verifier, and debugger.
-
 
 ## Wordlists
 * [SecLists](https://github.com/danielmiessler/seclists) — The security tester's companion (usernames, passwords, fuzzing payloads).
@@ -70,3 +67,21 @@
 
 ## Writeups & Walkthroughts
 * [0xdf HackTheBox Walkthroughts](https://0xdf.gitlab.io/) - In-depth, high-quality walkthroughs and methodology notes for HTB machines.
+
+## Binary Exploitation
+* [Pwntools](https://github.com/gallopsled/pwntools) - Pwntools is a CTF framework and exploit development library. Written in Python, it is designed for rapid prototyping and development, and intended to make exploit writing as simple as possible.
+
+## Dissamblers & Decompilers
+* [IDA Free](https://hex-rays.com/ida-free) - Industry standard for code analysis and reconstruction.
+* [IDA Pro](https://hex-rays.com/ida-pro) - Industry standard for code analysis and reconstruction.
+* [Ghidra](https://github.com/nationalsecurityagency/ghidra) - A top-notch, free, open-source decompiler straight from the US NSA.
+* [Binary Ninja](https://binary.ninja/) - Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers.
+
+## Debuggers
+* [pwndbg](https://github.com/pwndbg/pwndbg) - A key extension for gdb on Linux. It visualizes registers, the stack, and the heap.
+* [x64dbg](https://x64dbg.com/) - The best open-source graphical debugger for Windows applications (includes both x32dbg and x64dbg).
+
+## Interpreted Code & Bytecode
+* [pyinxstractor](https://github.com/extremecoders-re/pyinstxtractor) - An unpacker that extracts the internals and .pyc bytecode from a compiled .exe (created with PyInstaller).
+* [pycdc](https://pypi.org/project/pycdc/) - A modern C++ decompiler that converts Python bytecode back into readable .py source code.
+* [uncompyle6](https://pypi.org/project/uncompyle6/) - A reliable decompiler for older versions of Python (up to version 3.8).
