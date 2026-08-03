@@ -62,6 +62,7 @@
 ## Reverse Shells & Payloads
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — The ultimate bible for payloads and bypasses.
 * [RevShells](https://www.revshells.com) — Advanced reverse shell generator with automatic payload encoding.
+* [Penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
 
 ## Forensics & Steganography (For CTFs)
 * [Aperi'Solve](https://www.aperisolve.com/) - An excellent online tool for image analysis and steganography (it tests dozens of algorithms simultaneously).
