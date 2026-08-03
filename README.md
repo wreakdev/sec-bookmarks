@@ -64,6 +64,7 @@
 ## Forensics & Steganography (For CTFs)
 * [Aperi'Solve](https://www.aperisolve.com/) - An excellent online tool for image analysis and steganography (it tests dozens of algorithms simultaneously).
 * [Sonic Visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - Visualisation, analysis, and annotation of music audio recordings.
+* [Binwalk](https://github.com/refirmlabs/binwalk) - A fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images and hidden files embedded inside other files.
 
 ## Writeups & Walkthroughts
 * [0xdf HackTheBox Walkthroughts](https://0xdf.gitlab.io/) - In-depth, high-quality walkthroughs and methodology notes for HTB machines.
@@ -81,7 +82,7 @@
 * [pwndbg](https://github.com/pwndbg/pwndbg) - A key extension for gdb on Linux. It visualizes registers, the stack, and the heap.
 * [x64dbg](https://x64dbg.com/) - The best open-source graphical debugger for Windows applications (includes both x32dbg and x64dbg).
 
-## Interpreted Code & Bytecode
+## Interpreted Decompilers
 * [pyinxstractor](https://github.com/extremecoders-re/pyinstxtractor) - An unpacker that extracts the internals and .pyc bytecode from a compiled .exe (created with PyInstaller).
 * [pycdc](https://pypi.org/project/pycdc/) - A modern C++ decompiler that converts Python bytecode back into readable .py source code.
 * [uncompyle6](https://pypi.org/project/uncompyle6/) - A reliable decompiler for older versions of Python (up to version 3.8).
