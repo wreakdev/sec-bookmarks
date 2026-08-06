@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Maintained by <a href="https://github.com/wreakdev">[WreakDev]</a> & <a href="https://github.com/x3roxdev">[X3roxDev]</a>
+  Maintained by <a href="https://github.com/wreakdev">[WreakDev]</a>
 </p>
 
 ---
