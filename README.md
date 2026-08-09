@@ -21,7 +21,8 @@
 ## OSINT
 * [Shodan](https://www.shodan.io/) — Search engine for internet-connected devices.
 * [IDCrawl](https://www.idcrawl.com/) - Search engine for Peoples, Usernames, Phone Numbers, Emails
-* [Wayback Machine](https://archive.org) - Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more. 
+* [Wayback Machine](https://archive.org) - Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.
+* [LabEx](https://labex.io) - An interactive "learn-by-doing" IT platform. No lengthy videos—just hands-on practice directly in the browser (WebIDE, Jupyter). It features a comprehensive catalog of courses and labs covering DevOps, Linux, Python, cybersecurity, and cloud technologies, complete with an AI assistant for troubleshooting errors.
 
 ## CTF & Learning Platforms
 * [TryHackMe](https://tryhackme.com) — Interactive platform ranging from basics to advanced Red Teaming.
