@@ -32,6 +32,7 @@
 * [Root-Me](https://www.root-me.org) - It contains hundreds of diverse security challenges categorized by focus area (web, crypto, forensics).
 * [CyLab Security Academy (formerly picoCTF)](https://cylabacademy.org) - A free, globally popular ethical hacking learning platform from an expert team at Carnegie Mellon University. It offers over 500 interactive CTF challenges, ranging from the absolute basics to advanced techniques.
 * [LabEx](https://labex.io) - An interactive "learn-by-doing" IT platform. No lengthy videos—just hands-on practice directly in the browser (WebIDE, Jupyter). It features a comprehensive catalog of courses and labs covering DevOps, Linux, Python, cybersecurity, and cloud technologies, complete with an AI assistant for troubleshooting errors.
+* [SadServers](https://sadservers.com/) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS.
 
 ## Privesc Cheatsheets
 * [GTFOBins](https://gtfobins.github.io/) — Unix binaries and privilege escalation.
