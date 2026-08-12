@@ -45,6 +45,7 @@
 * [Hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility.
 * [John The Ripper](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs.
 * [JWT.io](https://jwt.io/) — JSON Web Token decoder, verifier, and debugger.
+* [CrackStation](https://crackstation.net/) - CrackStation is a free web service used to instantly crack (decode) cryptographic hashes using massive rainbow tables and dictionaries.
 
 ## Wordlists
 * [SecLists](https://github.com/danielmiessler/seclists) — The security tester's companion (usernames, passwords, fuzzing payloads).
